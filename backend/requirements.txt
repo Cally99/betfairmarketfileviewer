@@ -1,0 +1,5 @@
+django==3.2.5
+djangorestframework==3.12.4
+zappa==0.53.0
+betfairlightweight==2.12.2
+django-cors-headers
